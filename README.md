@@ -20,5 +20,12 @@ Hjälpfunktionen för att få fram stjärnor (*) i realtid i terminalen med msvc
 
 ## Hur man kör det
 Koden är gjord för Windows (eftersom den använder `msvcrt`):
-```bash
+
+Klona repot till din dator:
+git clone https://github.com/Logaterasuu/python-password-checker.git
+
+Gå in i projektmappen:
+cd python-password-checker
+
+Kör programmet i Windows-terminalen:
 python password_checker.py
