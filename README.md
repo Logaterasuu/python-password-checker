@@ -28,4 +28,4 @@ Gå in i projektmappen:
 cd python-password-checker
 
 Kör programmet i Windows-terminalen:
-py password_checker.py
+uv run password_checker.py
